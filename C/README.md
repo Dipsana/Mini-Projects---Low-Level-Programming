@@ -1,4 +1,4 @@
-**# Mini Projects - Low-Level Programming**
+**# Mini Projects - Low-Level Programming/C**
 
 Welcome to my collection of **Mini Projects** written in **C**! This repository contains small but useful programs demonstrating various programming concepts.
 
