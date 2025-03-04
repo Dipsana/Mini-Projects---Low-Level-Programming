@@ -9,6 +9,6 @@ This repository contains a collection of mini projects focused on low-level prog
 - **Memory Management:** Dynamic allocation and optimization of memory usage.  
 - **System Programming:** Low-level operations, process handling, and OS interactions.
 
-File structures and descriptions of projects are mentioned in PROJECTS.md and README.md respectively.
+File structures and project descriptions are documented in **[PROJECTS.md](C/PROJECTS.md)** and **[README.md](C/README.md)**, respectively.  
 
-As I continue learning, more projects and additional languages like C++ and Shell Scripting will be added in separate folders. Stay tuned for updates! 🚀
+As I continue learning, more projects and additional languages like C++ and Shell Scripting will be added in separate folders. Stay tuned for updates! 
