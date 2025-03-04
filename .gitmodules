@@ -1,0 +1,9 @@
+[submodule "C/Date-Comparison"]
+	path = C/Date-Comparison
+	url = https://github.com/Dipsana/Date-Comparison
+[submodule "C/Random-Number-Guessing-Game"]
+	path = C/Random-Number-Guessing-Game
+	url = https://github.com/Dipsana/Random-Number-Guessing-Game.git
+[submodule "C/Rock-Paper-Sizors-Game"]
+	path = C/Rock-Paper-Sizors-Game
+	url = https://github.com/Dipsana/Rock-Paper-Sizors-Game.git
