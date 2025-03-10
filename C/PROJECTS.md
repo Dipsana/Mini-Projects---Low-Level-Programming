@@ -2,7 +2,7 @@
 
 # PROJECTS.md
 
-📌 **[Back to README.md](../README.md)**
+📌 **[Back to README.md](README.md)**
 
 ## 📌 List of Projects
 
