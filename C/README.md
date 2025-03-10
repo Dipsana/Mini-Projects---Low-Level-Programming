@@ -11,4 +11,4 @@ Welcome to my collection of **Mini Projects** written in **C**! This repository 
 
 Each folder has a README with more details.
 
-📌 **[Go to PROJECTS.md](#PROJECTS.md)**
+📌 **[Go to PROJECTS.md](PROJECTS.md)**
